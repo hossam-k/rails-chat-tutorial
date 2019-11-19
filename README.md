@@ -1,3 +1,5 @@
+[![Build Status](http://localhost:8080/job/ChatTutorialPipeline/job/master/badge/icon)](http://localhost:8080/job/ChatTutorialPipeline/job/master/)
+
 # Rails chat application
 Code of the rails chat tutorial from [iridakos.com](https://iridakos.com/tutorials/2019/04/04/creating-chat-application-rails-websockets.html)
 
